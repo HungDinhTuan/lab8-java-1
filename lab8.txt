@@ -1,0 +1,14 @@
+Đối tượng sinh viên  :
+    Mã sinh viên là số nguyên.
+    Họ tên: chuỗi ký tự.
+    Địa chỉ: chuỗi ký tự.
+    Số điện thoại: là số bao gồm 7 chữ số.
+    1. Viết chương trình nhập thông tin sinh viên (trên màn hình console) và
+       hiển thị ra màn hình danh sách sinh viên có mã tăng dần .
+    2. Lưu thêm dữ liệu về học sinh bao gồm ngày sinh  , ngày nhập học  .
+       Sau khi nhập thông tin ngày sinh / ngày nhập học ->
+       lưu thêm trường age - số tuổi hiện tại của sinh viên  / sinh viên năm mấy.
+    3. Bổ sung tính năng chỉnh sửa thông tin học sinh  , xóa học sinh
+    4. Thống kê danh sách các sinh viên sinh cùng năm  (năm nhập vào từ console) , nhập học cùng năm .
+    5. Sử dụng singleton để chắc chắn tồn tại danh sách student duy nhất trong chương trình ,
+       lưu thông tin sinh viên vào file txt khi thoát chương trình
