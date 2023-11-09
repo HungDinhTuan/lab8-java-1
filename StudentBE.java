@@ -149,7 +149,7 @@ public class StudentBE {
             if (!isValid) {
                 System.err.println(String.format("Don't find ID : %d in the list students.", IDToDelete));
             } else {
-                System.err.println(String.format("The student have ID : %d to edited in the list", IDToDelete));
+                System.err.println(String.format("The student have ID : %d to deleted in the list", IDToDelete));
             }
         }
     }
